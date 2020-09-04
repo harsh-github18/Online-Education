@@ -1,7 +1,7 @@
 # Online-Education
  #
 
-Team Name: Noughat
+Team Name: Noghut
 
 Hello Fellas!! Welcome to Our Project.
 
